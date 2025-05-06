@@ -1,0 +1,63 @@
+Project: Responsive Website for GlobeGreen
+
+Company Name: GlobeGreen  
+Industry: Renewable Energy (Solar)
+
+Objective:  
+Create a fully responsive website that works seamlessly on both desktop and mobile devices.
+
+Color Scheme:
+- Primary Color: #2E8B57 (Sea Green - symbolizing eco-friendliness)
+- Secondary Color: #F4F4F4 (Light Gray background for clean layout)
+- Accent Color: #FFD700 (Golden Yellow - to represent solar energy and brightness)
+- Text Color: #333333 (Dark Gray for readability)
+
+Typography:
+- Headings: "Poppins", sans-serif
+- Body Text: "Open Sans", sans-serif
+
+Layout Instructions:
+
+*1. Navbar:*
+- Desktop View:
+  - Left side: GlobeGreen logo (use placeholder image or text)
+  - Right side: Menu items — About, Investor Relation, Contact
+- Mobile View:
+  - Left side: GlobeGreen logo
+  - Right side: Hamburger menu which toggles navigation drawer or dropdown with the same menu items
+
+*2. Pages:*
+Use dummy content (Lorem Ipsum) on all pages.
+
+- Home Page:
+  - Hero section with a bold headline, subtext, and CTA button ("Learn More")
+  - Section with 3 cards highlighting GlobeGreen's services (Solar Panel Installation, Green Consultancy, Maintenance)
+  - Footer with social media icons and copyright
+
+- About Page:
+  - Company mission, vision, and team introduction
+  - Timeline of growth or milestones
+
+- Investor Relation Page:
+  - Placeholder sections for Financial Reports, Shareholder Info, and Upcoming Meetings
+  - Downloadable PDF buttons (use dummy links)
+
+- Contact Page:
+  - Contact form with Name, Email, Message
+  - Google Maps placeholder
+  - Contact details (dummy address, email, and phone)
+
+*3. Responsive Behavior:*
+- Use Flexbox/Grid and media queries to adapt layout to various screen sizes.
+- Ensure readable font sizes and button tap targets on mobile.
+- Smooth collapsing of nav items into hamburger menu for screens < 768px.
+
+*Assets:*
+- Logo placeholder: Use "GlobeGreen" as stylized text in green color
+- Images: Use dummy images from https://picsum.photos
+
+*Other Notes:*
+- Ensure WCAG contrast compliance for accessibility.
+- Animate hamburger menu using simple CSS transitions.
+
+End of file.
